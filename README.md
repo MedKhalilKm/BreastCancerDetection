@@ -105,3 +105,16 @@ The project dependencies are listed in `requirements.txt`:
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
+```
+
+
+### ▶️ Run the API
+```
+uvicorn app:app --reload
+```
+
+### 🌐 API Access
+
+API Root: http://127.0.0.1:8000/
+
+Swagger UI: http://127.0.0.1:8000/docs
