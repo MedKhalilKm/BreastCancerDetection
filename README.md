@@ -63,7 +63,7 @@ The backend uses a **Voting Classifier** trained on normalized data inspired by 
 This API is connected to a **frontend project** that provides a user-friendly interface for interacting with the model.
 
 🔗 **Frontend Repository:**  
-https://github.com/your-username/your-frontend-repo
+https://github.com/kalilkamessi9-sketch/embrace-health-scan
 
 The frontend allows users to:
 - Upload breast cancer images
